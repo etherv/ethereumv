@@ -21,11 +21,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/eth/downloader"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/core/types"
+	"github.com/ethereumv/ethereumv/eth/downloader"
+	"github.com/ethereumv/ethereumv/log"
+	"github.com/ethereumv/ethereumv/p2p/discover"
 )
 
 const (

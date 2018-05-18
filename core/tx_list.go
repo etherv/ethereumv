@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/core/types"
+	"github.com/ethereumv/ethereumv/log"
 )
 
 // nonceHeap is a heap.Interface implementation over 64bit unsigned integers for

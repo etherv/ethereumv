@@ -22,10 +22,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/log"
+	"github.com/ethereumv/ethereumv/p2p"
+	"github.com/ethereumv/ethereumv/rlp"
 	set "gopkg.in/fatih/set.v0"
 )
 

@@ -27,12 +27,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/nat"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/common/hexutil"
+	"github.com/ethereumv/ethereumv/crypto"
+	"github.com/ethereumv/ethereumv/p2p"
+	"github.com/ethereumv/ethereumv/p2p/discover"
+	"github.com/ethereumv/ethereumv/p2p/nat"
 )
 
 var keys = []string{

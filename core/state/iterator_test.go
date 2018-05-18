@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/ethdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

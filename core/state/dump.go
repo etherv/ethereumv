@@ -20,9 +20,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/rlp"
+	"github.com/ethereumv/ethereumv/trie"
 )
 
 type DumpAccount struct {

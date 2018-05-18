@@ -21,9 +21,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/ethereumv/ethereumv"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/core/types"
 )
 
 var (

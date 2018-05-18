@@ -24,12 +24,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind/backends"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/chequebook/contract"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/ethereumv/ethereumv/accounts/abi/bind"
+	"github.com/ethereumv/ethereumv/accounts/abi/bind/backends"
+	"github.com/ethereumv/ethereumv/common"
+	"github.com/ethereumv/ethereumv/contracts/chequebook/contract"
+	"github.com/ethereumv/ethereumv/core"
+	"github.com/ethereumv/ethereumv/crypto"
 )
 
 var (
